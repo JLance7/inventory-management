@@ -1,0 +1,9 @@
+*
+!Dockerfile
+!src/
+!src/main/
+!src/main/java/
+!src/main/java/inventory/
+!src/main/java/inventory/Models.java
+!src/main/java/inventory/Database.java
+!src/main/java/inventory/Server.java

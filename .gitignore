@@ -1,0 +1,11 @@
+/build/
+/dist/
+/lib/*.jar
+/.env
+/server.properties
+/local-secrets.txt
+*.log
+*.class
+.idea/
+.vscode/
+*.iml

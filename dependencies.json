@@ -1,0 +1,12 @@
+[
+  {
+    "name": "gson-2.13.2.jar",
+    "url": "https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.13.2/gson-2.13.2.jar",
+    "sha256": "DD0CE1B55A3ED2080CB70F9C655850CDA86C206862310009DCB5E5C95265A5E0"
+  },
+  {
+    "name": "mariadb-java-client-3.5.11.jar",
+    "url": "https://repo.maven.apache.org/maven2/org/mariadb/jdbc/mariadb-java-client/3.5.11/mariadb-java-client-3.5.11.jar",
+    "sha256": "42604178B9E57EC08EE0035079961516F086E455D0141F0B22C6EFF29FB2FFF4"
+  }
+]

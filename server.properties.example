@@ -1,0 +1,8 @@
+# Copy to server.properties next to the server JAR. Never commit real secrets.
+db.url=jdbc:mariadb://127.0.0.1:3306/inventory?connectTimeout=5000&socketTimeout=10000&timezone=UTC
+db.user=inventory
+db.password=REPLACE_WITH_DATABASE_PASSWORD
+http.host=127.0.0.1
+http.port=8080
+api.token=REPLACE_WITH_RANDOM_TOKEN_AT_LEAST_32_CHARACTERS
+api.operator=Inventory team
